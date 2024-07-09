@@ -1,0 +1,13 @@
+{
+    "deepl": {
+        "api_url": "https://api.deepl.com/v2/document",
+        "api_key": "VOTRE_CLE_API"
+    },
+    "translation": {
+        "target_lang": "FR"
+    },
+    "folders": {
+        "input_folder": "input",
+        "output_folder": "output"
+    }
+}
